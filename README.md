@@ -13,6 +13,8 @@
 | **Frameworks / APIs** | ![Paper](https://img.shields.io/badge/-PaperAPI-FFD700?style=for-the-badge&logo=minecraft&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuskLabo&theme=highcontrast)](https://git.io/streak-stats)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 
 
