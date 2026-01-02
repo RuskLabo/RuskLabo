@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lunar_prototype (RuskLabo)
+# 👋 Hello, I'm RuskLabo (Lunar_prototype)
 ![](https://komarev.com/ghpvc/?username=your-github-id&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🚀 About Me
