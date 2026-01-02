@@ -13,6 +13,6 @@
 | **Frameworks / APIs** | ![Paper](https://img.shields.io/badge/-PaperAPI-FFD700?style=for-the-badge&logo=minecraft&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RuskLabo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuskLabo&theme=highcontrast)](https://git.io/streak-stats)
 
 
